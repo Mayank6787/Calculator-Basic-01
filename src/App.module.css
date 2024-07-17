@@ -1,0 +1,9 @@
+.Calculator {
+  background-color: rgb(164, 205, 250);
+  border: none;
+  width: 200px;
+  border-radius: 10px;
+  transition: all ease 0.85ms;
+  position: relative;
+  left: 120px;
+}
